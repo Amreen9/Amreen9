@@ -16,3 +16,24 @@
     <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+<div align="center">
+  <h2>Know About Me</h2>
+</div>
+
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://github.com/user-attachments/assets/64c63c5e-3aa8-4b57-9f82-ba30041d6195" width="200px" alt="Neon Keypad" style="border-radius: 10px;" />
+    </td>
+    <td width="70%">
+      <h3>Hey there! I'm Amreen Fatima</h3>
+      <p>
+        I'm an MCA student fueled by a passion for Data Science, Machine Learning, and AI. 
+        By day, I pretend to understand deep learning algorithms while turning messy data into predictive models. 
+        By night, I write Python scripts to automate everything I can. 
+        When I'm not coding, I'm usually building fraud detection systems, RAG chatbots, or training Deep Q-Learning agents. 
+        I am always exploring how data can solve real-world problems.
+      </p>
+    </td>
+  </tr>
+</table>
