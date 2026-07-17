@@ -1,5 +1,4 @@
-<div align ="center">
-<img width="736" height="364" alt="Welcome to Amreen&#39;s Github_20260717_114620_0000" src="https://github.com/user-attachments/assets/d263c0ca-387d-40e4-9585-c0fb8ea202d9" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+Amreen's+Github;" />
 
 ---
 <p align="center">
