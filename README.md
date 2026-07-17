@@ -1,4 +1,5 @@
-<img width="736" height="414" alt="Welcome to Amreen&#39;s Github_20260717_114620_0000" src="https://github.com/user-attachments/assets/87de150e-08aa-4d8f-9299-b27dc0ac8e2e" />
+<div align ="center">
+<img width="736" height="364" alt="Welcome to Amreen&#39;s Github_20260717_114620_0000" src="https://github.com/user-attachments/assets/d263c0ca-387d-40e4-9585-c0fb8ea202d9" />
 
 ---
 <p align="center">
@@ -23,7 +24,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="https://github.com/user-attachments/assets/64c63c5e-3aa8-4b57-9f82-ba30041d6195" width="200px" alt="Neon Keypad" style="border-radius: 10px;" />
+      <img src="https://github.com/user-attachments/assets/001a973d-bbab-438f-bcf4-d2a51fdca8de" width="200px" alt="Neon Keypad" style="border-radius: 10px;" />
     </td>
     <td width="70%">
       <h3>Hey there! I'm Amreen Fatima</h3>
