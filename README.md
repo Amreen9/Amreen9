@@ -52,5 +52,5 @@
 <p align="center">
   <h2 align="center">🐍 My Contribution 🐍</h2>
   <br>
-  <img src="https://ghchart.rshah.org/Amreen9" alt="Amreen9 Contribution Graph">
+  <img src="https://raw.githubusercontent.com/Amreen9/Amreen9/output/github-contribution-grid-snake.svg" alt="Amreen9 Snake Contribution Graph">
 </p>
